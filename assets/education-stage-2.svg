@@ -1,0 +1,11 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#F5F1E5"/>
+  <rect x="84" y="90" width="732" height="920" rx="42" fill="#FFFDF8"/>
+  <circle cx="239" cy="262" r="114" fill="#D8EACC"/>
+  <circle cx="459" cy="318" r="82" fill="#C1E6CE"/>
+  <circle cx="637" cy="245" r="136" fill="#ECF7DF"/>
+  <rect x="138" y="500" width="622" height="4" fill="#1F3529" fill-opacity="0.1"/>
+  <text x="138" y="604" fill="#173225" font-family="Arial, sans-serif" font-size="48">Education Stage 02</text>
+  <text x="138" y="668" fill="#5A7266" font-family="Arial, sans-serif" font-size="28">可替换为课堂、比赛、校园活动等图片</text>
+  <path d="M139 788H759" stroke="#2EDB74" stroke-width="18" stroke-linecap="round" stroke-opacity="0.5"/>
+</svg>

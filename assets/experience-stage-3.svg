@@ -1,0 +1,10 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#EFF5F1"/>
+  <rect x="90" y="90" width="720" height="920" rx="44" fill="#FFFEFD"/>
+  <path d="M140 232C140 183.399 179.399 144 228 144H672C720.601 144 760 183.399 760 232V380H140V232Z" fill="#D8ECE0"/>
+  <path d="M140 430H760V714C760 762.601 720.601 802 672 802H228C179.399 802 140 762.601 140 714V430Z" fill="#EEF8F1"/>
+  <path d="M192 522H708" stroke="#2EDB74" stroke-opacity="0.42" stroke-width="20" stroke-linecap="round"/>
+  <path d="M192 586H572" stroke="#173225" stroke-opacity="0.12" stroke-width="18" stroke-linecap="round"/>
+  <text x="140" y="896" fill="#173225" font-family="Arial, sans-serif" font-size="48">Experience Stage 03</text>
+  <text x="140" y="960" fill="#5A7266" font-family="Arial, sans-serif" font-size="28">适合社会实践、志愿活动或项目成果展示</text>
+</svg>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>学术个人主页模板 | Academic Profile</title>
+  <meta
+    name="description"
+    content="面向学术同行交流的个人主页模板，包含研究定位、当前工作、论文与成果、方法与资源、学术背景与合作交流。"
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="stylesheet" href="./styles.css?v=20260426">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <a class="brand" href="#home">
+        <span class="brand__mark">AP</span>
+        <span class="brand__text">Academic Profile Template</span>
+      </a>
+      <nav class="topnav" id="topnav" aria-label="站点导航"></nav>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section id="home" class="hero">
+      <div class="hero__main">
+        <p class="section-label" data-field="hero.eyebrow"></p>
+        <h1 class="hero__name" data-field="hero.name"></h1>
+        <p class="hero__title" data-field="hero.title"></p>
+        <p class="hero__affiliation" data-field="hero.affiliation"></p>
+        <p class="hero__summary" data-field="hero.summary"></p>
+        <div class="hero__actions" id="hero-actions"></div>
+        <div class="hero__badges" id="hero-badges"></div>
+      </div>
+      <aside class="hero__side">
+        <div class="portrait-card">
+          <div class="portrait-card__frame">
+            <img id="portrait-image" src="" alt="">
+          </div>
+          <dl class="fact-list" id="hero-facts"></dl>
+        </div>
+      </aside>
+    </section>
+
+    <section class="glance" id="glance" aria-label="一眼了解研究状态">
+      <div class="glance__grid" id="hero-glance"></div>
+    </section>
+
+    <section id="overview" class="section">
+      <div class="section-heading">
+        <p class="section-label">For Peers</p>
+        <h2>研究定位</h2>
+        <p>这一部分应该让同行快速判断，你的研究问题是否与他们相关，以及为什么值得继续往下看。</p>
+      </div>
+      <div class="overview-grid">
+        <article class="panel panel--summary">
+          <p class="overview-text" id="overview-summary"></p>
+          <ul class="bullet-list" id="overview-highlights"></ul>
+        </article>
+        <div class="panel-stack" id="overview-cards"></div>
+      </div>
+      <div class="panel-stack panel-stack--secondary" id="overview-groups"></div>
+    </section>
+
+    <section id="research" class="section">
+      <div class="section-heading">
+        <p class="section-label">Research</p>
+        <h2>研究方向</h2>
+        <p id="research-intro"></p>
+      </div>
+      <div class="research-grid" id="research-grid"></div>
+    </section>
+
+    <section id="work" class="section">
+      <div class="section-heading">
+        <p class="section-label">In Progress</p>
+        <h2>当前工作</h2>
+        <p id="work-intro"></p>
+      </div>
+      <div class="work-list" id="work-list"></div>
+    </section>
+
+    <section id="outputs" class="section">
+      <div class="section-heading">
+        <p class="section-label">Outputs</p>
+        <h2>论文与成果</h2>
+        <p>这里不只是论文列表，也可以放代码、数据、综述、专利、报告与可共享材料。</p>
+      </div>
+      <div class="output-list" id="output-list"></div>
+    </section>
+
+    <section id="methods" class="section">
+      <div class="section-heading">
+        <p class="section-label">Methods & Resources</p>
+        <h2>方法与资源</h2>
+        <p id="methods-intro"></p>
+      </div>
+      <div class="overview-grid">
+        <div class="panel-stack" id="methods-groups"></div>
+        <article class="panel">
+          <ul class="bullet-list" id="methods-notes"></ul>
+        </article>
+      </div>
+    </section>
+
+    <section id="background" class="section">
+      <div class="section-heading">
+        <p class="section-label">Background</p>
+        <h2>学术背景</h2>
+        <p>只保留与当前研究判断、方法能力和合作可能性有关的背景信息。</p>
+      </div>
+      <div class="background-list" id="background-list"></div>
+    </section>
+
+    <footer id="contact" class="section contact">
+      <div class="contact-card">
+        <div class="section-heading section-heading--compact">
+          <p class="section-label">Contact</p>
+          <h2>合作交流</h2>
+          <p id="contact-intro"></p>
+        </div>
+        <div class="contact-grid">
+          <div class="contact-methods" id="contact-methods"></div>
+          <ul class="bullet-list" id="contact-collaboration"></ul>
+        </div>
+      </div>
+    </footer>
+  </main>
+  <script src="./content.js?v=20260426"></script>
+  <script src="./app.js?v=20260426"></script>
+</body>
+</html>
