@@ -1,0 +1,8 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#EEF2ED"/>
+  <rect x="82" y="84" width="736" height="932" rx="44" fill="#FFFEFC"/>
+  <path d="M139 260C139 214.131 176.131 177 222 177H678C723.869 177 761 214.131 761 260V486H139V260Z" fill="#D6E8DA"/>
+  <path d="M139 486H761V575C761 620.869 723.869 658 678 658H222C176.131 658 139 620.869 139 575V486Z" fill="#2EDB74" fill-opacity="0.18"/>
+  <text x="139" y="748" fill="#173225" font-family="Arial, sans-serif" font-size="48">Education Stage 03</text>
+  <text x="139" y="812" fill="#5A7266" font-family="Arial, sans-serif" font-size="28">若不需要这一阶段，删除 content.js 中对应对象即可</text>
+</svg>

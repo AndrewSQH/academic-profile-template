@@ -1,0 +1,7 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#F5F8F4"/>
+  <rect x="60" y="60" width="780" height="555" rx="28" fill="#FFFDF8" stroke="#D4E7DA" stroke-width="8"/>
+  <text x="450" y="220" text-anchor="middle" fill="#183527" font-family="Arial, sans-serif" font-size="52">Certificate / Award</text>
+  <text x="450" y="292" text-anchor="middle" fill="#5D776A" font-family="Arial, sans-serif" font-size="30">奖项占位图 01</text>
+  <path d="M212 420H688" stroke="#2EDB74" stroke-width="18" stroke-linecap="round" stroke-opacity="0.5"/>
+</svg>

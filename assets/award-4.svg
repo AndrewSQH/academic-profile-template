@@ -1,0 +1,7 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#F1F5F0"/>
+  <rect x="66" y="66" width="768" height="543" rx="28" fill="#FFFEFA"/>
+  <path d="M170 220C170 172.504 208.504 134 256 134H644C691.496 134 730 172.504 730 220V326H170V220Z" fill="#DCEDE1"/>
+  <path d="M170 326H730V448C730 495.496 691.496 534 644 534H256C208.504 534 170 495.496 170 448V326Z" fill="#ECF6EF"/>
+  <text x="450" y="590" text-anchor="middle" fill="#183527" font-family="Arial, sans-serif" font-size="44">Award Placeholder 04</text>
+</svg>

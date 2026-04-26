@@ -1,0 +1,10 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" fill="#F4F2E8"/>
+  <rect x="92" y="86" width="716" height="928" rx="44" fill="#FFFDF9"/>
+  <circle cx="238" cy="252" r="96" fill="#DDE9D8"/>
+  <circle cx="450" cy="278" r="126" fill="#F0F4DE"/>
+  <circle cx="660" cy="248" r="88" fill="#CDE6D3"/>
+  <rect x="136" y="492" width="624" height="284" rx="28" fill="#EFF6F1"/>
+  <text x="136" y="858" fill="#173225" font-family="Arial, sans-serif" font-size="48">Experience Stage 02</text>
+  <text x="136" y="922" fill="#5A7266" font-family="Arial, sans-serif" font-size="28">适合替换成团队活动、项目路演或工作成果图</text>
+</svg>

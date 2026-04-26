@@ -1,0 +1,11 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#112019"/>
+  <circle cx="253" cy="205" r="268" fill="#2EDB74" fill-opacity="0.28"/>
+  <circle cx="1290" cy="185" r="220" fill="#E9FFD2" fill-opacity="0.2"/>
+  <path d="M0 690C240 545 401 510 611 574C815 636 965 731 1154 730C1318 729 1441 642 1600 509V900H0V690Z" fill="#1A3428"/>
+  <path d="M52 143C299 57 515 70 742 170C969 270 1175 315 1546 201" stroke="#ECF9F0" stroke-opacity="0.2" stroke-width="3"/>
+  <path d="M131 321C381 266 525 284 734 383C949 484 1118 497 1458 368" stroke="#2EDB74" stroke-opacity="0.32" stroke-width="4"/>
+  <rect x="964" y="316" width="367" height="224" rx="38" fill="#EFF7F1" fill-opacity="0.11"/>
+  <text x="1004" y="403" fill="#F8FFF8" fill-opacity="0.8" font-family="Arial, sans-serif" font-size="42">Portfolio Header</text>
+  <text x="1004" y="454" fill="#C7DACE" fill-opacity="0.86" font-family="Arial, sans-serif" font-size="24">将此文件替换为你的真实头图</text>
+</svg>
