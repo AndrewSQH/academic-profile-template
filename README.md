@@ -66,7 +66,7 @@ http://127.0.0.1:5500/
 
 ### 1. 改内容
 
-主要编辑 [content.js](file:///c:/Users/ASUS/Desktop/Personal%20Resume/content.js)：
+主要编辑 `content.js`：
 
 - `meta`：网页标题和描述
 - `navigation`：导航栏目
@@ -95,14 +95,14 @@ portraitImage: "./assets/my-photo.jpg"
 
 ### 3. 改品牌文案
 
-如需修改页头品牌信息，编辑 [index.html](file:///c:/Users/ASUS/Desktop/Personal%20Resume/index.html) 中的：
+如需修改页头品牌信息，编辑 `index.html` 中的：
 
 - `brand__mark`
 - `brand__text`
 
 ### 4. 改配色
 
-主题颜色集中在 [styles.css](file:///c:/Users/ASUS/Desktop/Personal%20Resume/styles.css) 顶部的 `:root` 变量中，例如：
+主题颜色集中在 `styles.css` 顶部的 `:root` 变量中，例如：
 
 - `--bg`
 - `--surface`
